@@ -1,3 +1,13 @@
 #+title: État des lieux de l'ouverture des codes sources dans le secteur public
 
+* Enseignement supérieur et recherche
 
+** Établissements publiant des éléments d'une politique de publication des codes sources
+
+- [[https://code.etalab.gouv.fr/fr/repos?g=https%3A%2F%2Fgithub.com%2Fmedialab][MediaLab]] de Sciences Po: https://medialab.sciencespo.fr/a-propos/#deontology
+- INRIA: ?
+- CNRS: ?
+- Institut Curie: ?
+- INSERM: ?
+- INRA: ?
+- ...
