@@ -1,5 +1,25 @@
 #+title: État des lieux de l'ouverture des codes sources dans le secteur public
 
+** Témoignages
+
+- https://mensuel.framapad.org/p/ouverture-code-source-dgfip
+- [[https://github.com/DISIC/gazette-bluehats/blob/master/content/post/gazette_bluehat_6.org#focus-sur-piaf-pour-des-ia-francophones][Focus sur PIAF: pour des IA francophones]]
+- [[https://github.com/DISIC/gazette-bluehats/blob/master/content/post/gazette_bluehat_5.org#focus-sur-le-logiciel-libre-%C3%A0-la-dane-de-lyon][Focus sur le logiciel libre à la DANE de Lyon]]
+- [[https://github.com/DISIC/gazette-bluehats/blob/master/content/post/gazette_bluehat_5.org#focus-sur-le-logiciel-libre-%C3%A0-la-dane-de-lyon][Focus sur apps.education.fr]]
+- [[https://github.com/DISIC/gazette-bluehats/blob/master/content/post/gazette_bluehat_4.org#un-framaform-like-pour-lagence-fran%C3%A7aise-pour-la-biodiversit%C3%A9][Un framaform-like pour l’agence française pour la biodiversité]]
+- [[https://github.com/DISIC/gazette-bluehats/blob/master/content/post/gazette_bluehat_4.org#scenari--retour-sur-20-ans-de-d%C3%A9veloppements][Scenari : retour sur 20 ans de développements]]
+- [[https://github.com/DISIC/gazette-bluehats/blob/master/content/post/gazette_bluehat_4.org#prodige--un-logiciel-libre-au-coeur-du-sig-atlasante][Prodige : un logiciel libre au coeur du SIG ATLASANTE]]
+- [[https://github.com/DISIC/gazette-bluehats/blob/master/content/post/gazette_bluehat_4.org#collabora-online-et-libreoffice-%C3%A0-luniversit%C3%A9-de-lille][Collabora Online et LibreOffice à l’université de Lille]]
+- [[https://github.com/DISIC/gazette-bluehats/blob/master/content/post/gazette_bluehat_3.org#focus-sur-la-gendarmerie-nationale-et-le-logiciel-libre][Focus sur la Gendarmerie nationale et le logiciel libre]]
+- [[https://github.com/DISIC/gazette-bluehats/blob/master/content/post/gazette_bluehat_3.org#lemonldapng--un-web-sso-pour-ladministration][LemonLDAP::NG : un Web-SSO pour l’administration]]
+- [[https://github.com/DISIC/gazette-bluehats/blob/master/content/post/gazette_bluehat_3.org#dfir-orc--un-outil-de-collecte-libre-pour-lanalyse-forensique][DFIR ORC : un outil de collecte libre pour l’analyse forensique]]
+- [[https://github.com/DISIC/gazette-bluehats/blob/master/content/post/gazette_bluehat_3.org#opencti--un-outil-libre-pour-traiter-et-partager-la-connaissance-en-mati%C3%A8re-de-cybermenace][OpenCTI : un outil libre pour traiter et partager la connaissance en matière de cybermenace]]
+- [[https://github.com/DISIC/gazette-bluehats/blob/master/content/post/gazette_bluehat_3.org#une-application-libre-sur-les-%C3%A9nergies-renouvelables-de-r%C3%A9seaux][Une application libre sur les énergies renouvelables de réseaux]]
+- [[https://github.com/DISIC/gazette-bluehats/blob/master/content/post/gazette_bluehat_3.org#cartelette--cr%C3%A9ation-de-couches-cartographiques-%C3%A0-partir-du-code-officiel-g%C3%A9ographique-cog-et-des-couches-ign][CARTElette : Création de couches cartographiques à partir du code officiel géographique (COG) et des couches IGN]]
+- [[https://github.com/DISIC/gazette-bluehats/blob/master/content/post/gazette_bluehat_3.org#retour-utilisateur-sur-la-solution-proxmox][Retour utilisateur sur la solution Proxmox]]
+- [[https://github.com/DISIC/gazette-bluehats/blob/master/content/post/gazette_bluehat_1.org#la-cour-des-comptes-contribue-au-logiciel-libre-pubsweet][La Cour des comptes contribue au logiciel libre Pubsweet]]
+- [[https://github.com/DISIC/gazette-bluehats/blob/master/content/post/gazette_bluehat_1.org#focus-sur-ocs-inventory-ng][Focus sur OCS Inventory NG]]
+
 ** Enseignement supérieur et recherche
 
 *** Établissements publiant des éléments d'une politique de publication des codes sources
