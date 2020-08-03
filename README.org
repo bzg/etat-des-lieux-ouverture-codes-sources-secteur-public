@@ -19,6 +19,7 @@
 - [[https://github.com/DISIC/gazette-bluehats/blob/master/content/post/gazette_bluehat_3.org#retour-utilisateur-sur-la-solution-proxmox][Retour utilisateur sur la solution Proxmox]]
 - [[https://github.com/DISIC/gazette-bluehats/blob/master/content/post/gazette_bluehat_1.org#la-cour-des-comptes-contribue-au-logiciel-libre-pubsweet][La Cour des comptes contribue au logiciel libre Pubsweet]]
 - [[https://github.com/DISIC/gazette-bluehats/blob/master/content/post/gazette_bluehat_1.org#focus-sur-ocs-inventory-ng][Focus sur OCS Inventory NG]]
+- [[https://www.ccsd.cnrs.fr/2019/11/publication-du-code-de-hal-un-premier-pas-vers-lopen-source/][Publication du code de HAL : un premier pas vers l’open source]]
 
 ** Éducation nationale
 
@@ -29,6 +30,14 @@
   le [[https://www.reseau-canope.fr/][Réseau Canopé]] ?
 
 ** Enseignement supérieur et recherche
+
+*** Liste de logiciels libres produits par des laboratoires
+
+- Voir [[https://github.com/bzg/logiciel-libre-esr/blob/master/liste-ll-produits-esr.md][cette liste]]
+
+*** Structures de droit privé créant de la valeur autour de logiciels libres produits par des laboratoires de recherche publique
+
+- Voir [[https://github.com/bzg/logiciel-libre-esr/blob/master/liste-ll-produits-esr.md][cette liste]]
 
 *** Établissements publiant des éléments d'une politique de publication des codes sources
 
@@ -45,3 +54,4 @@
 ** Publications scientifiques
 
 - [[https://joss.theoj.org/papers/10.21105/joss.00146][eLabFTW: An open source laboratory notebook forresearch labs]]
+- scikit-learn ?
