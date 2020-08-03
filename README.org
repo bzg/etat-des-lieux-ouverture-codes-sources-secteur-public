@@ -20,6 +20,14 @@
 - [[https://github.com/DISIC/gazette-bluehats/blob/master/content/post/gazette_bluehat_1.org#la-cour-des-comptes-contribue-au-logiciel-libre-pubsweet][La Cour des comptes contribue au logiciel libre Pubsweet]]
 - [[https://github.com/DISIC/gazette-bluehats/blob/master/content/post/gazette_bluehat_1.org#focus-sur-ocs-inventory-ng][Focus sur OCS Inventory NG]]
 
+** Éducation nationale
+
+- http://ww2.ac-poitiers.fr/dane/spip.php?article911 recommande
+  l'usage prioritaire des logiciels libres.
+
+- Quels logiciels libres (et non seulement gratuits) sont publiés par
+  le [[https://www.reseau-canope.fr/][Réseau Canopé]] ?
+
 ** Enseignement supérieur et recherche
 
 *** Établissements publiant des éléments d'une politique de publication des codes sources
