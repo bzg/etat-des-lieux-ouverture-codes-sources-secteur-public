@@ -21,7 +21,20 @@
 - [[https://github.com/DISIC/gazette-bluehats/blob/master/content/post/gazette_bluehat_1.org#focus-sur-ocs-inventory-ng][Focus sur OCS Inventory NG]]
 - [[https://www.ccsd.cnrs.fr/2019/11/publication-du-code-de-hal-un-premier-pas-vers-lopen-source/][Publication du code de HAL : un premier pas vers l’open source]]
 
-** Éducation nationale
+** Études de cas
+
+- [[https://joinup.ec.europa.eu/collection/open-source-observatory-osor/document/lutece-case-studies-sustainability-public-sector-open-source-communities][Lutece: Case Studies on Sustainability of Public Sector Open Source
+  Communities]] (05/08/2020)
+
+- [[https://joinup.ec.europa.eu/collection/open-source-observatory-osor/document/french-government-launches-house-developed-messaging-service-tchap][French government launches in-house developed messaging service,
+  Tchap]] (27/03/2020)
+
+** Publications scientifiques
+
+- [[https://joss.theoj.org/papers/10.21105/joss.00146][eLabFTW: An open source laboratory notebook forresearch labs]]
+- scikit-learn ?
+** Par secteur
+*** Éducation nationale
 
 - http://ww2.ac-poitiers.fr/dane/spip.php?article911 recommande
   l'usage prioritaire des logiciels libres.
@@ -29,17 +42,17 @@
 - Quels logiciels libres (et non seulement gratuits) sont publiés par
   le [[https://www.reseau-canope.fr/][Réseau Canopé]] ?
 
-** Enseignement supérieur et recherche
+*** Enseignement supérieur et recherche
 
-*** Liste de logiciels libres produits par des laboratoires
-
-- Voir [[https://github.com/bzg/logiciel-libre-esr/blob/master/liste-ll-produits-esr.md][cette liste]]
-
-*** Structures de droit privé créant de la valeur autour de logiciels libres produits par des laboratoires de recherche publique
+**** Liste de logiciels libres produits par des laboratoires
 
 - Voir [[https://github.com/bzg/logiciel-libre-esr/blob/master/liste-ll-produits-esr.md][cette liste]]
 
-*** Établissements publiant des éléments d'une politique de publication des codes sources
+**** Structures de droit privé créant de la valeur autour de logiciels libres produits par des laboratoires de recherche publique
+
+- Voir [[https://github.com/bzg/logiciel-libre-esr/blob/master/liste-ll-produits-esr.md][cette liste]]
+
+**** Établissements publiant des éléments d'une politique de publication des codes sources
 
 - [[https://code.etalab.gouv.fr/fr/repos?g=https%3A%2F%2Fgithub.com%2Fmedialab][MediaLab]] de Sciences Po: https://medialab.sciencespo.fr/a-propos/#deontology
 - COMET-CNES: https://www.comet-cnes.fr/evenements/comment-valoriser-par-lopensource
@@ -51,7 +64,3 @@
 - CRI: ?
 - ...
 
-** Publications scientifiques
-
-- [[https://joss.theoj.org/papers/10.21105/joss.00146][eLabFTW: An open source laboratory notebook forresearch labs]]
-- scikit-learn ?
