@@ -44,6 +44,11 @@
 
 *** Enseignement supérieur et recherche
 
+**** Note d’opportunité sur la valorisation des logiciels issus de la recherche
+
+- [[https://www.ouvrirlascience.fr/note-dopportunite-sur-la-valorisation-des-logiciels-issus-de-la-recherche/][Note d’opportunité sur la valorisation des logiciels issus de la
+  recherche]] (novembre 2019)
+
 **** Liste de logiciels libres produits par des laboratoires
 
 - Voir [[https://github.com/bzg/logiciel-libre-esr/blob/master/liste-ll-produits-esr.md][cette liste]]
