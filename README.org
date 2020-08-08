@@ -1,4 +1,13 @@
-#+title: État des lieux de l'ouverture des codes sources dans le secteur public
+Ce fichier propose un état des lieux sur l'ouverture des codes sources
+du secteur public.  
+
+*Vous pouvez y contribuer* en proposant des références [[https://github.com/bzg/etat-des-lieux-ouverture-codes-sources-secteur-public/issues][via une issue]] ou
+en écrivant à =bzg @ bzg.fr=.
+
+** Portail code.etalab.gouv.fr
+
+Le portail https://code.etalab.gouv.fr a été publié par Etalab en
+octobre 2019 et il permet de se faire une idée de qui publie quoi.
 
 ** Témoignages
 
@@ -23,31 +32,17 @@
 
 ** Études de cas
 
-- [[https://joinup.ec.europa.eu/collection/open-source-observatory-osor/document/lutece-case-studies-sustainability-public-sector-open-source-communities][Lutece: Case Studies on Sustainability of Public Sector Open Source
-  Communities]] (05/08/2020)
+- [[https://joinup.ec.europa.eu/collection/open-source-observatory-osor/document/lutece-case-studies-sustainability-public-sector-open-source-communities][Lutece: Case Studies on Sustainability of Public Sector Open Source Communities]] (05/08/2020)
+- [[https://joinup.ec.europa.eu/collection/open-source-observatory-osor/document/french-government-launches-house-developed-messaging-service-tchap][French government launches in-house developed messaging service, Tchap]] (27/03/2020)
 
-- [[https://joinup.ec.europa.eu/collection/open-source-observatory-osor/document/french-government-launches-house-developed-messaging-service-tchap][French government launches in-house developed messaging service,
-  Tchap]] (27/03/2020)
-
-** Publications scientifiques
-
-- [[https://joss.theoj.org/papers/10.21105/joss.00146][eLabFTW: An open source laboratory notebook forresearch labs]]
-- scikit-learn ?
 ** Par secteur
-*** Éducation nationale
 
-- http://ww2.ac-poitiers.fr/dane/spip.php?article911 recommande
-  l'usage prioritaire des logiciels libres.
+*** Éducation nationale
 
 - Quels logiciels libres (et non seulement gratuits) sont publiés par
   le [[https://www.reseau-canope.fr/][Réseau Canopé]] ?
 
 *** Enseignement supérieur et recherche
-
-**** Note d’opportunité sur la valorisation des logiciels issus de la recherche
-
-- [[https://www.ouvrirlascience.fr/note-dopportunite-sur-la-valorisation-des-logiciels-issus-de-la-recherche/][Note d’opportunité sur la valorisation des logiciels issus de la
-  recherche]] (novembre 2019)
 
 **** Liste de logiciels libres produits par des laboratoires
 
@@ -69,3 +64,20 @@
 - CRI: ?
 - ...
 
+** Publications
+
+*** Éducation nationale
+
+- http://ww2.ac-poitiers.fr/dane/spip.php?article911 recommande
+  l'usage prioritaire des logiciels libres.
+
+*** Enseignement supérieur et recherche
+
+- [[https://www.ouvrirlascience.fr/note-dopportunite-sur-la-valorisation-des-logiciels-issus-de-la-recherche/][Note d’opportunité sur la valorisation des logiciels issus de la recherche]] (novembre 2019)
+- https://www.ouvrirlascience.fr/note-dopportunite-sur-la-valorisation-des-logiciels-issus-de-la-recherche/
+- [[https://joss.theoj.org/papers/10.21105/joss.00146][eLabFTW: An open source laboratory notebook forresearch labs]]
+- [[https://scinfolex.com/2017/12/08/les-logiciels-produits-par-les-administrations-sont-passes-en-open-source-par-defaut-et-voici-pourquoi/][Les logiciels produits par les administrations sont passés en Open Source par défaut (et voici pourquoi)]]
+- [[https://hal.archives-ouvertes.fr/hal-02069359][Le Projet PLUME et le paysage actuel des logiciels de la recherche dans la science ouverte]]
+- [[https://hal.archives-ouvertes.fr/hal-02434287][Les logiciels de la recherche et leurs licences : trois visions sur un objet]]
+- [[https://f1000research.com/articles/8-1353][On the evaluation of research software: the CDUR procedure. 2019.]]
+- Sur scikit-learn ?
