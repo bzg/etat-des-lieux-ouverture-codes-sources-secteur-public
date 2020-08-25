@@ -4,6 +4,9 @@ du secteur public.
 *Vous pouvez y contribuer* en proposant des références [[https://github.com/bzg/etat-des-lieux-ouverture-codes-sources-secteur-public/issues][via une issue]] ou
 en écrivant à =bzg @ bzg.fr=.
 
+Vous pouvez aussi consulter une liste de [[file:questions.org][questions/réponses]] génériques
+sur ce sujet.
+
 ** Portail code.etalab.gouv.fr
 
 Le portail https://code.etalab.gouv.fr a été publié par Etalab en
@@ -36,6 +39,10 @@ octobre 2019 et il permet de se faire une idée de qui publie quoi.
 - [[https://joinup.ec.europa.eu/collection/open-source-observatory-osor/document/french-government-launches-house-developed-messaging-service-tchap][French government launches in-house developed messaging service, Tchap]] (27/03/2020)
 
 ** Par secteur
+
+*** Finances et budget
+
+- https://mensuel.framapad.org/p/ouverture-code-source-dgfip
 
 *** Éducation nationale
 

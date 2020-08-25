@@ -1,0 +1,59 @@
+#+title: Questions générales
+
+/Réponses personnelles (bzg) au 25 août 2020./
+
+* 1. Est-ce que vous disposez d’un état des lieux de l’ouverture actuelle des données et code source publics ? Par exemple une vision des périmètres dans lesquels cela « fonctionne » et dans lesquels cela ne fonctionne pas.
+
+Pour l'ouverture des codes sources, le meilleur état des lieux dont nous disposions est accessible via https://code.etalab.gouv.fr, soit 4228 dépôts de code source pour 332 comptes d'organisation.
+
+Un travail pourrait être fait (à la main) pour attacher ces comptes d'organisation aux ministères, mais on constate rapidement (1) que la DINUM fait partie des administrations exemplaires, (2) qu'il y a une forte présence de l'enseignement supérieur et de la recherche.
+
+Au-delà de cette répartition, il est difficile de savoir où cela « fonctionne » car « fonctionner » a un sens différent pour chaque administration qui ouvre : certaines ouvrent par souci de transparence, d'autres pour attirer des développeurs, d'autres pour recevoir des contributions, etc.
+
+D'une façon générale, la DINUM manque d'interlocuteurs dédiés à la question de l'ouverture des codes sources dans les ministères.  Sans ces interlocuteurs (les équivalents des AMD pour l'open data), il est difficile de savoir ce qui est fait dans chaque ministère au-delà de la simple observation.
+
+* 2. Avez-vous quelques exemples de datasets et codes source dont l’ouverture a généré une transformation réelle du service-public ou a permis des réutilisations à forte valeur ajoutée ?
+
+Les dépôts de code source sur https://code.etalab.gouv.fr/fr/repos sont classés par ordre décroissant de nombre de réutilisations.
+
+Parmi les projets à forte valeur ajoutée, on trouve des bibliothèques de code dont l'usage est répandu, comme [[https://github.com/Inist-CNRS/node-csv-string][node-csv-string]], [[https://github.com/Inist-CNRS/node-xml-splitter][node-xml-splitter]] et [[https://github.com/Inist-CNRS/node-xml-writer][node-xml-writer]] ; des outils issus de projets de recherche comme [[https://github.com/INRIA/spoon][spoon]] ; des projets de l'administration comme OpenFisca (via [[https://github.com/openfisca/openfisca-core][openfisca-core]] et [[https://github.com/openfisca/openfisca-france][openfisca-france]]).
+
+Pour ces projets, il est difficile de savoir si les réutilisations sont le fait de l'administration ou d'autres parties (société civile, entreprises, etc.)
+
+Il peut aussi être intéressant d'aller chercher dans [[https://code.etalab.gouv.fr/fr/deps][la liste des dépendances logicielles]] pour identifier des dépendances open source qui seraient produites par l'administration.  Dans ce registre, on trouve par exemple [[https://www.npmjs.com/package/%40etalab%2Fdecoupage-administratif][@etalab/decoupage-administratif]], une bibliothèque =npm= utilisée par 15 autres projets de l'administration.
+ 
+* 3. Quels sont les freins concrets que vous rencontrez pour accélérer l’ouverture des codes sources et données publiques ? Avez-vous des pistes sur la manière dont on pourrait les lever ?
+
+Voici les freins identifiés empiriquement :
+
+1. *Absence de portage politique* : aucune administration n'a clairement indiqué sa volonté d'ouvrir les codes sources qu'elle produit.  Il existe bien une "politique de contribution open source depuis 2018" [[https://www.numerique.gouv.fr/publications/politique-logiciel-libre/][publiée par la DINUM]] (alors DINSIC) depuis 2018, mais cette politique n'est ni déclinée ni portée par d'autres administrations.
+2. *Absence de responsables* : la DINUM n'a pas d'interlocuteur sur l'ouverture des codes sources dans les autres administrations. Le référent logiciels libres de la DINUM a identifié et réuni les personnes actives dans l'ouverture des codes sources, lesquelles forment un réseau informel, mais tant qu'aucune n'est réellement en charge de la mise en oeuvre de l'ouverture des codes sources, il n'y aura pas de réelle montée en compétence des ministères sur le sujet.
+3. *Manque de compétence juridiques* : les services juridiques des administrations sont en difficulté pour aider un département à ouvrir ses codes sources par manque de familiarité avec l'objet "code source" lui-même et par manque de familiarité avec le contexte juridique de la loi pour une République numérique, notamment du décret concernant les licences.
+4. *Manque de visibibité sur les bénéfices de l'ouverture* : ouvrir un code source coûte du temps et expose à des risques.  L'ensemble est perçu comme inutile.  Les bénéfices (notamment la réutilisation et l'amélioration par d'autres acteurs du service public) sont souvent de l'ordre de « l'externalité positive » et cela n'incite pas chaque acteur à faire l'effort.
+
+À noter que les compétences techniques et notamment les questions de sécurité ne figurent /pas/ dans cette liste.
+
+Des agents peuvent avoir /peur/ d'ouvrir un code source, mais ces craintes sont la plupart du temps sans fondement : à ma connaissance, personne n'est jamais venu critiquer la façon dont été codé un code source dans un dépôt ouvert par l'administration.
+
+Des agents peuvent aussi craindre de commettre des erreurs relatives à *la sécurité*, en laissant par exemple fuiter des mots de passe dans l'historique d'un dépôt : mais ce ne sont pas ici les compétences techniques générales qui sont en cause, lesquelles semblent le plus souvent suffisantes pour publier un dépôt dans une forge logicielle, Git étant désormais largement utilisé pour le suivi des versions du code.
+
+* 4. Voyez-vous des opportunités particulières d’ouverture de données ou de code source dans certains secteurs, qui pourraient avoir un gros impact mais sont insuffisamment poursuivies aujourd’hui ?
+
+Il est difficile de se prononcer sur l'intérêt d'ouvrir des codes sources dont nous n'avons pas connaissance.
+
+Mais je suspecte qu'il n'y a pas beaucoup de codes sources fermés dont la publication aurait immédiatement un impact fort.
+
+Car n'ont d'impact que les codes sources d'outils assez génériques pour être réutilisés ailleurs (soit des outils "sur étagère", comme une application de gestion d'événements, soit des outils comme des bibliothèques de code) : or, quand le code source est développé de façon fermée, les motivations pour le rendre générique sont quasi nulles.
+
+* 5. Qu’en est-il de l’ouverture de données produites par des entreprises privées mais d’ « intérêt général » ? Quelles sont les données qui pourraient avoir le plus d’impact pour l’amélioration du service public ?
+
+Il existe de nombreuses entreprises privées publiant des codes sources sous licence libre : Facebook, Google, AirBnb ou Netflix pour ne citer que quelques unes.  Toutes contribuent « à l'open source » et donc à l'intérêt général.
+
+Il faudrait aller chercher dans <https://code.etalab.gouv.fr/fr/deps> par quelles entreprises ou communautés sont développées et/ou soutenues les dépendances les plus critiques pour le secteur public, et voir si une collaboration avec les entreprises ou les communautés qui maintiennent ces dépendances pourrait être utile à court, moyen ou long terme.
+
+* 6. Y a-t-il d’autres points qui vous semblent importants dans le domaine ?
+
+- Il faudrait voir de quelle manière l'administration peut encourager la réutilisation de ses propres productions logicielles plutôt que de dépendre de briques open source externes ou de codes sources non libres.
+
+- Il faudrait comprendre de quelle manière la publication en open source permet d'augmenter l'attractivité d'une administration pour des profils techniques.
+
